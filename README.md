@@ -1,1 +1,1 @@
-# odin-recipes
+In this project, I will be building a basic recipe website. The purpose of this project is to build my HTML skills based on what I have learned so far from The Odin Project. I will be creating new files, adding images and links, using headings, and creating lists.
